@@ -1,0 +1,130 @@
+[
+    {
+        "pid": "P001",
+        "name": "Basic White T-Shirt",
+        "price": 399,
+        "category": "Clothing",
+        "stock": 49,
+        "desc": "Comfortable white cotton t-shirt, unisex fit."
+    },
+    {
+        "pid": "P002",
+        "name": "Denim Jacket",
+        "price": 1499,
+        "category": "Clothing",
+        "stock": 18,
+        "desc": "Classic blue denim jacket with button closure."
+    },
+    {
+        "pid": "P003",
+        "name": "Graphic Hoodie",
+        "price": 999,
+        "category": "Clothing",
+        "stock": 29,
+        "desc": "Printed hoodie, fleece-lined, relaxed fit."
+    },
+    {
+        "pid": "P004",
+        "name": "Formal Black Shirt",
+        "price": 699,
+        "category": "Clothing",
+        "stock": 40,
+        "desc": "Slim fit black formal shirt, full sleeves."
+    },
+    {
+        "pid": "P005",
+        "name": "Maxi Floral Dress",
+        "price": 1299,
+        "category": "Dresses",
+        "stock": 25,
+        "desc": "Long flowing dress with floral prints."
+    },
+    {
+        "pid": "P006",
+        "name": "Bodycon Mini Dress",
+        "price": 899,
+        "category": "Dresses",
+        "stock": 18,
+        "desc": "Stretch-fit mini dress, great for parties."
+    },
+    {
+        "pid": "P007",
+        "name": "Wrap V-Neck Dress",
+        "price": 1099,
+        "category": "Dresses",
+        "stock": 22,
+        "desc": "Wrap style dress with v-neck and tie-waist."
+    },
+    {
+        "pid": "P008",
+        "name": "A-Line Casual Dress",
+        "price": 749,
+        "category": "Dresses",
+        "stock": 35,
+        "desc": "Lightweight summer A-line dress."
+    },
+    {
+        "pid": "P009",
+        "name": "Bluetooth Earbuds",
+        "price": 1599,
+        "category": "Electronics",
+        "stock": 45,
+        "desc": "Wireless earbuds with charging case."
+    },
+    {
+        "pid": "P010",
+        "name": "Smart Watch S5",
+        "price": 2999,
+        "category": "Electronics",
+        "stock": 14,
+        "desc": "Fitness tracking smart watch with OLED display."
+    },
+    {
+        "pid": "P011",
+        "name": "Wireless Mouse",
+        "price": 649,
+        "category": "Electronics",
+        "stock": 60,
+        "desc": "2.4GHz wireless mouse with ergonomic design."
+    },
+    {
+        "pid": "P012",
+        "name": "Type-C Fast Charger",
+        "price": 499,
+        "category": "Electronics",
+        "stock": 55,
+        "desc": "20W USB Type-C fast charger for all devices."
+    },
+    {
+        "pid": "P013",
+        "name": "Analog Wrist Watch",
+        "price": 999,
+        "category": "Accessories",
+        "stock": 25,
+        "desc": "Classic analog watch with leather strap."
+    },
+    {
+        "pid": "P014",
+        "name": "Silver Chain Necklace",
+        "price": 799,
+        "category": "Accessories",
+        "stock": 30,
+        "desc": "Minimal silver chain, stainless steel."
+    },
+    {
+        "pid": "P015",
+        "name": "UV Protection Sunglasses",
+        "price": 499,
+        "category": "Accessories",
+        "stock": 20,
+        "desc": "Stylish sunglasses with UV protection."
+    },
+    {
+        "pid": "P016",
+        "name": "Studded Earrings Set",
+        "price": 349,
+        "category": "Accessories",
+        "stock": 40,
+        "desc": "Set of 6 stud earrings, trendy designs."
+    }
+]
